@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact of Lievtenant Generall Middletons letter: To the honourable Sir William Waller. And by him communicated to, and read in the honourable House of Commons, on Saturday last, being the 24. of this instant moneth of August. 1644. Wherein is set forth a victory, obtained against the enemy by a partie of horse and dragoones, under the command of Captaine Fincher, Quarter-Master Generall to Sir William Waller, at Farrington. Wherein were taken, slaine and dispersed neere 600. horse and foot of the enemy; as also a list of the names of the officers that were taken, with many other particulars in that great defeat. And withall, how one Captain Blunt a papist, killed most cruelly a godly minister, which captain, was with many others, there taken prisoners in this fight.</title>
+            <author>Middleton, John Middleton, Earl of, 1619-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89123</idno>
+            <idno type="STC">Wing M1974</idno>
+            <idno type="STC">Thomason E7_22</idno>
+            <idno type="STC">ESTC R1541</idno>
+            <idno type="EEBO-CITATION">99859858</idno>
+            <idno type="PROQUEST">99859858</idno>
+            <idno type="VID">111958</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89123)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111958)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E7[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact of Lievtenant Generall Middletons letter: To the honourable Sir William Waller. And by him communicated to, and read in the honourable House of Commons, on Saturday last, being the 24. of this instant moneth of August. 1644. Wherein is set forth a victory, obtained against the enemy by a partie of horse and dragoones, under the command of Captaine Fincher, Quarter-Master Generall to Sir William Waller, at Farrington. Wherein were taken, slaine and dispersed neere 600. horse and foot of the enemy; as also a list of the names of the officers that were taken, with many other particulars in that great defeat. And withall, how one Captain Blunt a papist, killed most cruelly a godly minister, which captain, was with many others, there taken prisoners in this fight.</title>
+                  <author>Middleton, John Middleton, Earl of, 1619-1674.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order, by G. Bishop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 28. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111958:1"/>
+            <pb facs="tcp:111958:1" rendition="simple:additions"/>
+            <p>An Exact of Lievtenant Generall MIDDLETONS LETTER: To the Honourable Sir <hi>WILLIAM WALLER.</hi>
+            </p>
+            <p>And by him communicated to, and Read in the Honourable Houſe of COMMONS, on <hi>Saturday</hi> laſt, being the 24. of this inſtant Moneth of <hi>Auguſt.</hi> 1644.</p>
+            <p>Wherein is ſet forth a VICTORY, Obtained againſt the Enemy by a Partie of Horſe and Dragoones, under the Command of Captaine <hi>Fincher,</hi> Quarter-Maſter Generall to Sir <hi>William Waller,</hi> at <hi>Farrington.</hi>
+            </p>
+            <p>Wherein were taken, ſlaine and diſperſed neere 600. Horſe and Foot of the Enemy; As alſo a Liſt of the Names of the Officers that were taken, with many other particulars in that great Defeat.</p>
+            <p>
+               <hi>And withall,</hi> How one Captain <hi>Blunt</hi> a Papiſt, killed moſt cruelly a godly Miniſter, which Captain, was with many others, there taken Priſoners in this Fight.</p>
+            <p>
+               <hi>LONDON,</hi> Printed according to Order, by <hi>G. Biſhop.</hi> Auguſt. 28. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111958:2"/>
+            <pb n="3" facs="tcp:111958:2"/>
+            <head>An Exact of Liev. Generall MIDDLETONS LETTER, <hi>To the Honorable</hi> Sir <hi>WILLIAM WALLER.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Forces I am to have from <hi>Lime,</hi> are to be to morrow with mee at <hi>Charde,</hi> the <hi>London</hi> Regi<g ref="char:EOLhyphen"/>ment at <hi>Weymouth,</hi> I think will be with me a day or two hence, our piſtolls and Saddles are landed at <hi>Wey<g ref="char:EOLhyphen"/>mouth;</hi> I have given Orders to Commiſ<g ref="char:EOLhyphen"/>ſary <hi>Fox,</hi> to bring them to my Quarters
+<pb n="4" facs="tcp:111958:3"/>at <hi>Charde;</hi> I have taken a Courſe to re<g ref="char:EOLhyphen"/>cruit, by leaving a proportion of Horſe upon divers Hundreds in Summerſet<g ref="char:EOLhyphen"/>ſhire; I doubt not, but the Horſe will be in a good poſture ere long; Having re<g ref="char:EOLhyphen"/>ceiv'd intelligence of ſome new Leavies neere <hi>Briſtoll,</hi> I commanded Captaine <hi>Fincher,</hi> Quarter-maſter Generall, with a party of three Hundred Horſe, and one hundred Dragoones that way, he came very opportunely about the time they were to March to their rendezvous, kil<g ref="char:EOLhyphen"/>led only five in the place, diſperſed and took the reſt priſoners, I have ſent you a <hi>Liſte</hi> incloſed, of the priſoners Names; I hope the leavie is marr'd: One of the priſoners, Captaine <hi>Blunt,</hi> a <hi>Papiſt,</hi> killed a Miniſter not long ſince, moſt cruelly; I intend to ſend over all the pri<g ref="char:EOLhyphen"/>ſoners to <hi>Lime,</hi> I think this <hi>Captaine Blunt</hi> deſerves to be hanged. Your Ho<g ref="char:EOLhyphen"/>nour
+<pb n="5" facs="tcp:111958:3"/>may acquaint the <hi>Committee</hi> of both Kingdomes with this cruell Act: It is impoſsible to heare of any thing from my <hi>Lord Generall,</hi> but by ſea, hee is in good condition, as I am informed; ſince our comming into theſe parts, wee have not onely ſtopped their leavies of men &amp; money, but likewiſe we have ſtreigh<g ref="char:EOLhyphen"/>tened the Kings Army much of proviſi<g ref="char:EOLhyphen"/>on, I doe heare his Majeſties Army is either retreated, or intends ſhortly to retreat; I cannot affirme the truth of this. I doubt not, but I ſhall be able ſhortly to informe you; for I intend to go towards <hi>Exeter,</hi> and as neer as poſſi<g ref="char:EOLhyphen"/>bly I can, to the Kings army, with a good party of Horſe and Dragoones, ſo ſoon as I have diſtributed the piſtolls to the ſeverall Troopes; Colonell <hi>Stroude</hi> is here, and hee is to raiſe a Regiment of Horſe, which I make no queſtion hee
+<pb n="6" facs="tcp:111958:4"/>doe quickly. If the <hi>Parliament</hi> will im<g ref="char:EOLhyphen"/>ploy their Forces this way, the VVorke was done.</p>
+            <closer>
+               <dateline>Ilcheſter <date>21. Aug. 1644.</date>
+               </dateline>
+               <signed>Your humble ſervant <hi>John Middleton.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="7" facs="tcp:111958:4"/>
+            <list>
+               <head>Priſoners taken at <hi>Farrington.</hi>
+               </head>
+               <item>Edward Biſſe Colonell.</item>
+               <item>
+                  <list>
+                     <head>Captaines.</head>
+                     <item>
+                        <hi>EDward Davies,</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Kirton,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Haſſet,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Blunt.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Walter Swaine Lieu. of Horſe.</item>
+               <item>
+                  <list>
+                     <head>Lievtenants of Foot.</head>
+                     <item>T <hi>Thomas Heath,</hi>
+                     </item>
+                     <item>
+                        <hi>George Bingham,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Rirketon,</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Day.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Walter Swayne,</hi> Coronet.</item>
+               <item>
+                  <hi>William Maſſy,</hi> Quarter-Maſter.</item>
+               <item>
+                  <pb n="8" facs="tcp:111958:5"/>
+                  <hi>Henry Zouche,</hi> Chaplaine to the Collo<g ref="char:EOLhyphen"/>nell.</item>
+               <item>
+                  <hi>Iohn Swenbrooke,</hi> Servant to Captaine <hi>Haſſett.</hi>
+               </item>
+               <item>
+                  <hi>Henry Biggins,</hi> Servant to Collonell <hi>Biſſe.</hi>
+               </item>
+               <item>
+                  <hi>William Sims,</hi> Chyrurgion.</item>
+               <item>
+                  <hi>William Brooke,</hi> Servant to Lieutenant <hi>Swayne.</hi>
+               </item>
+               <item>Thirty Eight <hi>Troopers,</hi>
+               </item>
+               <item>
+                  <hi>Twelve Foot Souldiers,</hi>
+               </item>
+               <item>
+                  <hi>Three Barrells of Powder,</hi>
+               </item>
+               <item>
+                  <hi>a good quantity of Match and Bullets,</hi>
+               </item>
+               <item>
+                  <hi>neere a Hundred Horſe.</hi>
+               </item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
